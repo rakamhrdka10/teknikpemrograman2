@@ -1,15 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+/**
+* Nama :Raka mahardika 
+* kelas : D4 1B
  */
+
 package mystrings;
 
 import java.util.Scanner;
 
-/**
- *
- * @author User
- */
+
 public class MyStrings {
     public static void main(String[] args) {
         String word1;

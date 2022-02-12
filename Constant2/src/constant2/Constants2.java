@@ -1,10 +1,10 @@
+/**
+* Nama :Raka mahardika 
+* kelas : D4 1B
+ */
 
 package constant2;
 
-/**
- * Nama  : Raka mahardika maulana
- * kelas : D4 1B
- */
 
 public class Constants2 {
  public static final double CM_PER_INCH = 2.54;

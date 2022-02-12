@@ -1,3 +1,8 @@
+/**
+* Nama :Raka mahardika 
+* kelas : D4 1B
+*/
+
 package convertdatatype;
 class ConvertDataType
 {
