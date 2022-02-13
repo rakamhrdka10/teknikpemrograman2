@@ -41,9 +41,6 @@ public class MyStrings {
      SumKata = word1.substring(0,1).toUpperCase() + word1.substring(1) + " " + word2.substring(0,1).toUpperCase()+ word2.substring(1);
         System.out.println(SumKata);
     }
+   
 
-    private static Object word1(int i, int i0) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-    
 }
